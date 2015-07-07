@@ -1,7 +1,7 @@
 # jsTeroids
 A JavaScript clone of the game Asteroids
 
-Created in 2013 and now uploaded to Github.
+Created in 2013 and now uploaded to Github. The code is pretty bad, I never went back to clean it up.
 
 Music from:
 
